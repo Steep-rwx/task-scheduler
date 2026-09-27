@@ -14,9 +14,9 @@
 * startup + linker scripts
 
 ## Аппаратная часть и среда разработки:
-Плата: STM32F411CEU6
-Отладчик: ST-Link v2
-Инструменты: STM32CubeIDE + arm-none-eabi-gcc, позже VSCode юзал
+* Плата: STM32F411CEU6
+* Отладчик: ST-Link v2
+* Инструменты: STM32CubeIDE + arm-none-eabi-gcc, позже VSCode юзал
 
 ## Структура проекта:
 * `Src/` и `Inc/` - исходный код
